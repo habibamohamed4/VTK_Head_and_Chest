@@ -62,7 +62,7 @@ ctfun.addRGBPoint(100, 1, 1, 1);
     ctfun.addRGBPoint(255, 0, 0, 1);
 ```
 
-![Image](./image/ray%20casting.jpg)
+![ray casting](https://user-images.githubusercontent.com/61379163/215264289-a149d3d6-6eed-4c7f-b3b8-6bd3bcab8014.jpg)
 
 ## widget cropping on Head and Chest 
 ```
@@ -86,8 +86,10 @@ ctfun.addRGBPoint(100, 1, 1, 1);
         renderer.resetCameraClippingRange();
         renderWindow.render();
 ```
-![Image](./image/ray%20casting.jpg)
-![Image](./image/widget%20head%202.PNG)
+![ray casting](https://user-images.githubusercontent.com/61379163/215264381-f81b1e6b-3c5b-4d30-aa59-f2140e93b322.jpg)
+
+
+![widget head 2](https://user-images.githubusercontent.com/61379163/215264390-323a3b03-43ce-45a0-8fa6-494d722db2cc.png)
 
 # Issues
 -It was little difficult to work with react for the first time
