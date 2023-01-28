@@ -39,9 +39,12 @@ then we get its render and render window objects
 ## Switching between head and chest
 there are two buttons to choose go to head or chest 
 when we display head there are button to go to chest and the same for chest 
-![Image](./image/main.PNG)
-![Image](./image/head.PNG)
-![Image](./image/chest.jpg)
+
+![main](https://user-images.githubusercontent.com/61379163/215264198-f1ee5eff-a877-4bbc-8af4-397c7e88f064.png)
+
+![head](https://user-images.githubusercontent.com/61379163/215264207-a7f7184a-cf19-4837-a379-7b314a13477d.png)
+
+![chest](https://user-images.githubusercontent.com/61379163/215264216-4d4eb845-897c-4bed-9355-7ed58d14dbd5.jpg)
 
 ## marching cubes on head
 it apply iso value on head go into/out head and show its details 
